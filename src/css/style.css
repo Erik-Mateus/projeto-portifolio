@@ -39,6 +39,40 @@
 
 .primeira-secao{
     background-color: #4DBD90;
-    color: #ffff;
-    display: flex;
+    color: #ffff; 
 }
+.elements{
+    display: flex;
+    padding-left: 25px;
+    justify-content: space-between;
+}
+.titulo-primeira-secao{
+    padding-top: 15px;
+    text-align: center;
+}
+.imglupa{
+    height: 300px;
+    width: 320px;
+}
+.texexemple{
+    padding-top: 30px;
+    max-width: 780px;
+}
+.botoes-text{
+    padding-top: 15%;
+    padding-left: 4%;
+}
+.botoes{
+    font-size:15px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    font-weight:bold;
+    border-color: #fff;
+    border-radius: 20px;
+}
+.botoes:hover {
+    background: linear-gradient(#f6f6f6, #ffffff);
+}
+
