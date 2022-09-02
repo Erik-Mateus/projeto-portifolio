@@ -1,0 +1,44 @@
+/*cabeçalho*/
+
+.cabecalho{
+    padding:10px;
+}
+.fixar{
+    display: flex;
+    justify-content: space-between;
+}
+.titulo{
+    font-size: 27px;
+}
+.icones-redes-sociais{
+    display: flex;
+}
+.linkedin{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+}
+.github{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+}
+.insta{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+}
+
+/* Seção verdinha */
+
+.primeira-secao{
+    background-color: #4DBD90;
+    color: #ffff;
+    display: flex;
+}
