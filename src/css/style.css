@@ -47,7 +47,7 @@
     justify-content: space-between;
 }
 .titulo-primeira-secao{
-    padding-top: 15px;
+    padding-top: 25px;
     text-align: center;
 }
 .imglupa{
@@ -61,9 +61,10 @@
 .botoes-text{
     padding-top: 15%;
     padding-left: 4%;
+    padding-bottom: 50px;
 }
 .botoes{
-    font-size:15px;
+    font-size:20px;
     font-family:Arial;
     width:140px;
     height:50px;
@@ -75,4 +76,64 @@
 .botoes:hover {
     background: linear-gradient(#f6f6f6, #ffffff);
 }
+.titulo-secao-dois{
+    background-color: #3E5C50;
+    color: #ffff;
+    padding-block: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.iconeimgs{
+    display: flex;
+    justify-content: center;
+}
+.React{
+    font-family: 'Staatliches';
+    padding-top: 25px;
+    padding-left: 30px;
+}
+.Css{
+    font-family: 'Staatliches';
+    padding-top: 25px;
+    padding-left: 33px;
+}
+.Html{
+    font-family: 'Staatliches';
+    padding-top: 25px;
+    padding-left: 28px;
+}
+.Java-script{
+    font-family: 'Staatliches';
+    padding-top: 25px;
+    padding-left: 6px;
+}
+.icoslinguagens{
+    width: 90px;
+    height: 90px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: .5s;
+}
+.icoslinguagens:hover{
+    filter: brightness(10);
+}
+/* secao retangulos*/
 
+.secao-tres{
+    background-color: #DDE7ED;
+}
+.titulo-secao-tres{
+    padding-top: 30px;
+    text-align: center;
+}
+.retangulos{
+    display: flex;
+    padding: 25px;
+    padding-bottom: 60px;
+}
+.projetosimg{
+    width: 300px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
