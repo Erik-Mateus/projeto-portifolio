@@ -4,4 +4,5 @@
     list-style: none;
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
+    scroll-behavior: initial;
 }
